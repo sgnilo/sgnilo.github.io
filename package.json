@@ -1,0 +1,20 @@
+{
+  "name": "sgnilo.github.io",
+  "version": "1.0.0",
+  "description": "## haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tested\"",
+    "build": "echo \"build success\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgnilo/sgnilo.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgnilo/sgnilo.github.io/issues"
+  },
+  "homepage": "https://github.com/sgnilo/sgnilo.github.io#readme"
+}
